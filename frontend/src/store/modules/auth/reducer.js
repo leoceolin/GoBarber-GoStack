@@ -2,11 +2,12 @@ import produce from 'immer'
 
 const INITIAL_STATE = {
   token: null,
-  figned: false,
+  signed: false,
   loading: false,
 }
 
 export default function auth(state = INITIAL_STATE, action) {
+  // eslint-disable-next-line consistent-return
   return produce(state, draft => {
     switch (action.type) {
       case '@auth/SIGN_IN_REQUEST': {

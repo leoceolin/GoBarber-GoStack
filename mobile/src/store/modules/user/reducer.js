@@ -5,6 +5,7 @@ const INITIAL_STATE = {
 }
 
 export default function user(state = INITIAL_STATE, action) {
+  // eslint-disable-next-line consistent-return
   return produce(state, draft => {
     switch (action.type) {
       case '@auth/SIGN_IN_SUCCESS': {
