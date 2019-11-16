@@ -111,7 +111,7 @@ react-native run-android / react-native run-ios
   <tr>
     <td align="center">
       <a href="http://github.com/leoceolin/">
-        <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Leonel Ceolin Farias"/>
+        <img src="https://avatars2.githubusercontent.com/u/37599840?v=4" width="100px;" alt="Leonel Ceolin Farias"/>
         <br />
         <sub>
           <b>Leonel Ceolin Farias</b>
