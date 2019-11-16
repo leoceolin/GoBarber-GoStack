@@ -48,8 +48,6 @@ export function* signUp({ payload }) {
       password,
       provider: false,
     })
-
-    // history.push('/')
   } catch (err) {
     Alert.alert(
       'Falha no cadastro',

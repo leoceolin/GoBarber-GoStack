@@ -4,7 +4,7 @@ import {
   createSwitchNavigator,
   createBottomTabNavigator,
 } from 'react-navigation'
-import {createStackNavigator} from 'react-navigation-stack';
+import { createStackNavigator } from 'react-navigation-stack'
 
 import Icon from 'react-native-vector-icons/MaterialIcons'
 
