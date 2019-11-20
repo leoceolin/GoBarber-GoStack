@@ -68,7 +68,15 @@ npm start
 
 ## GoBarber - WEB
 
+![Preview-Screens](https://github.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/login.png)
+
+![Preview-Screens](https://github.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/sigin.png)
+
+![Preview-Screens](https://github.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/perfil.png)
+
 ![Preview-Screens](https://github.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/dash.png)
+
+![Preview-Screens](https://github.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/dash_not.png)
 
 ## Instalando e Executando Mobile
 
