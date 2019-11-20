@@ -66,6 +66,10 @@ ou
 npm start
 ```
 
+## GoBarber - WEB
+
+![Preview-Screens](https://github.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/dash.png)
+
 ## Instalando e Executando Mobile
 
 Acesse a pasta mobile no seu terminal e instale as dependências
