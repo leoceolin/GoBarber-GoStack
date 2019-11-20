@@ -68,7 +68,7 @@ npm start
 
 ## GoBarber - WEB
 
-![Preview-Screens](https://raw.githubusercontent.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/login.png)
+![Preview-Screens](https://github.com/leoceolin/GoBarber-GoStack/blob/master/frontend/images/dash.png)
 
 ## Instalando e Executando Mobile
 
